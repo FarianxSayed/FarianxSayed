@@ -1,7 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=farianxsayed&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-![image](https://user-images.githubusercontent.com/92245531/136686838-6b2673ce-8005-4768-8cfe-6677d5a4e590.png)
-
 Working on:
 
 - [Python Language](https://github.com/python)
