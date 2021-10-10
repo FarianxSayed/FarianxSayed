@@ -1,9 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=farianxsayed&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 Working on:
 
-- Python Language [Python](https://github.com/python)
-- C-sharp [C#](https://github.com/dotnet/csharplang)
-- PHP [PHP](https://github.com/PHP)
+- [Python Language](https://github.com/python)
+- [C-sharp](https://github.com/dotnet/csharplang)
+- [PHP](https://github.com/PHP)
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FarianxSayed/)
